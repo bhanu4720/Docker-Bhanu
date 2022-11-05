@@ -45,8 +45,6 @@
       </plugin>
     </plugins>
   </build>
-  <build>
-    <finalName>docker-jenkins-sample</finalName>
-  </build>
+ 
 
 </project>
